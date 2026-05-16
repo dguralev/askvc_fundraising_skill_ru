@@ -1,0 +1,152 @@
+[
+  {
+    "id": "02",
+    "name": "The Ultimate List of 750+ Seed Funds",
+    "csv_files": [
+      "02_ultimate_seed_funds.csv"
+    ],
+    "row_count": 787,
+    "status": "saved",
+    "distribution_note": "Shareable cache includes normalized CSV only; raw extraction artifacts are intentionally excluded."
+  },
+  {
+    "id": "03",
+    "name": "Active VC list",
+    "csv_files": [
+      "03_active_vc_list.csv"
+    ],
+    "row_count": 365,
+    "status": "saved",
+    "distribution_note": "Shareable cache includes normalized CSV only; raw extraction artifacts are intentionally excluded."
+  },
+  {
+    "id": "04",
+    "name": "No Warm Intro Required List",
+    "csv_files": [
+      "04_no_warm_intro_required.csv"
+    ],
+    "row_count": 350,
+    "status": "saved",
+    "distribution_note": "Shareable cache includes normalized CSV only; raw extraction artifacts are intentionally excluded."
+  },
+  {
+    "id": "05",
+    "name": "New Europe-Based VC Funds",
+    "csv_files": [
+      "05_new_europe_based_vc_funds.csv"
+    ],
+    "row_count": 113,
+    "status": "saved",
+    "distribution_note": "Shareable cache includes normalized CSV only; raw extraction artifacts are intentionally excluded."
+  },
+  {
+    "id": "06",
+    "name": "370+ Israeli VC Funds",
+    "csv_files": [
+      "06_israeli_vc_funds.csv"
+    ],
+    "row_count": 377,
+    "status": "saved",
+    "distribution_note": "Shareable cache includes normalized CSV only; raw extraction artifacts are intentionally excluded."
+  },
+  {
+    "id": "07",
+    "name": "Europe VCs List",
+    "csv_files": [
+      "07_europe_vcs_list.csv"
+    ],
+    "row_count": 1391,
+    "status": "saved",
+    "distribution_note": "Shareable cache includes normalized CSV only; raw extraction artifacts are intentionally excluded."
+  },
+  {
+    "id": "08",
+    "name": "New VC Funds below $200M in size",
+    "csv_files": [
+      "08_new_vc_funds_under_200m.csv"
+    ],
+    "row_count": 977,
+    "status": "saved",
+    "distribution_note": "Shareable cache includes normalized CSV only; raw extraction artifacts are intentionally excluded."
+  },
+  {
+    "id": "09",
+    "name": "US Seed Funds List",
+    "csv_files": [
+      "09_us_seed_funds_list.csv"
+    ],
+    "row_count": 787,
+    "status": "saved",
+    "distribution_note": "Shareable cache includes normalized CSV only; raw extraction artifacts are intentionally excluded."
+  },
+  {
+    "id": "10",
+    "name": "Seed & Series A US VCs List",
+    "csv_files": [
+      "10_seed_series_a_us_vcs_folk.csv"
+    ],
+    "row_count": 672,
+    "status": "saved",
+    "distribution_note": "Shareable cache includes normalized CSV only; raw extraction artifacts are intentionally excluded."
+  },
+  {
+    "id": "11",
+    "name": "US Women Angels List",
+    "csv_files": [
+      "11_us_women_angels.csv"
+    ],
+    "row_count": 596,
+    "status": "saved",
+    "distribution_note": "Shareable cache includes normalized CSV only; raw extraction artifacts are intentionally excluded."
+  },
+  {
+    "id": "12",
+    "name": "Diverse Background Angels",
+    "csv_files": [
+      "12_diverse_background_angels.csv"
+    ],
+    "row_count": 591,
+    "status": "saved",
+    "distribution_note": "Shareable cache includes normalized CSV only; raw extraction artifacts are intentionally excluded."
+  },
+  {
+    "id": "13",
+    "name": "Active Angels in the US List",
+    "csv_files": [
+      "13_active_angels_us.csv"
+    ],
+    "row_count": 397,
+    "status": "saved",
+    "distribution_note": "Shareable cache includes normalized CSV only; raw extraction artifacts are intentionally excluded."
+  },
+  {
+    "id": "14",
+    "name": "Female Angels List",
+    "csv_files": [
+      "14_female_angels.csv"
+    ],
+    "row_count": 316,
+    "status": "saved",
+    "distribution_note": "Shareable cache includes normalized CSV only; raw extraction artifacts are intentionally excluded."
+  },
+  {
+    "id": "15",
+    "name": "Pre-seed VCs List",
+    "csv_files": [
+      "15_pre_seed_vcs.csv"
+    ],
+    "row_count": 259,
+    "status": "saved",
+    "distribution_note": "Shareable cache includes normalized CSV only; raw extraction artifacts are intentionally excluded."
+  },
+  {
+    "id": "16",
+    "name": "Venture Debt in Australia List",
+    "csv_files": [
+      "16_venture_debt_australia.csv"
+    ],
+    "row_count": 17,
+    "status": "saved",
+    "distribution_note": "Shareable cache includes normalized CSV only; raw extraction artifacts are intentionally excluded."
+  }
+]

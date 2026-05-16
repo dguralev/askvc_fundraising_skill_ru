@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ask VC Fundraising Skill"
+  short_description: "Ask VC fundraising sheet ops"
+  default_prompt: "Use Ask VC Fundraising Skill to run fundraising from startup materials: create or find the Ask VC workbook, source investors, draft outreach, and maintain trackers."
