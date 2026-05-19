@@ -145,11 +145,9 @@ When the user is actively sending investor outreach, use this operating loop by 
 2. The user sends the actual LinkedIn message/context back to the agent.
 3. If the LinkedIn message or profile context contains useful new details, use them to lightly adapt the email while keeping the workbook row as the source of truth.
 4. Send the email to that person's `Email` address using the approved/current email body style and the default call-first CTA: `Let's have a call next week?`.
-5. Update the same live workbook in place:
-   - `Outreach Tracker`: set `Date`, `Type of Contact`, `Response`, `Status`, `Send Channel`, `Current Step`, `Last touch`, `Next touch`, `Sent Date`, `First Touch Sent`, `Follow-up Due Date`, `Reply Status`, `Owner`, and `Final Output Status`.
-   - `Шаблон Pipeline инвесторов`: update the fund-level status, last contact, next action, follow-up date, outreach status, and notes.
-   - `Fund Contacts Map` and `Final Output`: sync the person-level status and notes.
-6. Tell the user it is done and that they can move to the next person.
+5. During active outreach, use fast mode by default: update only that person's row in `Outreach Tracker` immediately. Set `Date`, `Type of Contact`, `Response`, `Status`, `Send Channel`, `Current Step`, `Last touch`, `Next touch`, `Sent Date`, `First Touch Sent`, `Follow-up Due Date`, `Reply Status`, `Owner`, `Final Output Status`, and append a short note with what was sent.
+6. Do not update `Шаблон Pipeline инвесторов`, `Fund Contacts Map`, `Final Output`, or the local `.xlsx` after every single send unless the user explicitly asks. Sync those supporting tabs in batch when the user says `sync pipeline`, `sync all`, `end of day sync`, or similar.
+7. Tell the user it is done and that they can move to the next person.
 
 Do not create a new workbook during this loop. Keep updating the current workbook URL/path.
 
