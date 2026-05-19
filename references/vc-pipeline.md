@@ -288,7 +288,7 @@ I'm reaching out because [Fund] looks relevant for [Startup] given [specific but
 
 [Traction sentence.]
 
-Could I send over a short deck?
+Let's have a call next week?
 
 Best,
 [FounderName]
@@ -303,7 +303,7 @@ I'm reaching out because [Fund] came up in our search for software investors, an
 
 ...
 
-If this is within scope, could I send over a short deck?
+If this is within scope, let's have a call next week?
 ```
 
 Do not use internal database phrasing in emails:

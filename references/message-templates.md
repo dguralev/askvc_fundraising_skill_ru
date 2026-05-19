@@ -175,7 +175,7 @@ I'm reaching out because [Fund] looks relevant for [Startup] given [specific but
 
 [Startup] helps growth teams turn competitor ads, organic trends, and market signals into data-driven creative decisions before launch. We launched in March, have 10 paying customers, and are raising a $500k+ pre-seed round.
 
-Could I send over a short deck?
+Let's have a call next week?
 
 Best,
 [FounderName]
@@ -190,7 +190,7 @@ Hi [FirstName],
 
 We help growth teams use AI agents to analyze competitor ads and organic trends before deciding what creative concepts to test next. We launched in March, have 10 paying customers, and are raising a $500k+ pre-seed round.
 
-If this is within scope, could I send over a short deck?
+If this is within scope, let's have a call next week?
 
 Best,
 [FounderName]
@@ -205,7 +205,7 @@ Hi [FirstName],
 
 We're raising a $500k+ pre-seed round to scale the product and outbound motion. [Fund] looks relevant given [specific investor fit reason].
 
-Could I send over a short deck?
+Let's have a call next week?
 
 Best,
 [FounderName]
