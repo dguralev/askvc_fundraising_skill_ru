@@ -137,6 +137,22 @@ When the user asks to continue fundraising work:
 
 Do not overwrite existing user-entered tracker history. Append or update only the relevant cells.
 
+## LinkedIn-First Outreach Loop
+
+When the user is actively sending investor outreach, use this operating loop by default:
+
+1. The user chooses a person from `Outreach Tracker`, opens that person's LinkedIn, and sends a connection request, possibly editing the suggested `LI connection request`.
+2. The user sends the actual LinkedIn message/context back to the agent.
+3. If the LinkedIn message or profile context contains useful new details, use them to lightly adapt the email while keeping the workbook row as the source of truth.
+4. Send the email to that person's `Email` address using the approved/current email body style and the default call-first CTA: `Let's have a call next week?`.
+5. Update the same live workbook in place:
+   - `Outreach Tracker`: set `Date`, `Type of Contact`, `Response`, `Status`, `Send Channel`, `Current Step`, `Last touch`, `Next touch`, `Sent Date`, `First Touch Sent`, `Follow-up Due Date`, `Reply Status`, `Owner`, and `Final Output Status`.
+   - `Шаблон Pipeline инвесторов`: update the fund-level status, last contact, next action, follow-up date, outreach status, and notes.
+   - `Fund Contacts Map` and `Final Output`: sync the person-level status and notes.
+6. Tell the user it is done and that they can move to the next person.
+
+Do not create a new workbook during this loop. Keep updating the current workbook URL/path.
+
 ## Iteration Commands
 
 Support these recurring requests:
