@@ -118,6 +118,8 @@ Recommended outputs:
 
 When writing the live workbook, prefer Google Sheets updates if a Google Sheet is available. If the workbook is local-only, update a local Excel workbook (`.xlsx`, `.xls`, `.xlsm`) and tell the user the exact path. Do not use CSV as the live workbook format.
 
+Do not create new dated/versioned workbook files unless the user explicitly asks for a new copy, backup, export, or separate version. By default, update the current live workbook in place and preserve its URL/path.
+
 Minimum final export columns:
 
 `priority_rank, fund_id, fund_name, score_total, score_max_possible, investor_name, investor_title, contact_tier, source_type, work_email, email_confidence, linkedin, outreach_subject_line, outreach_email_body, outreach_linkedin_dm, outreach_personalization_hook, outreach_cta, review_note`
