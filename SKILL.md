@@ -52,6 +52,7 @@ If the user wants speed, proceed with clearly labeled assumptions.
 - In Page 1, write `Business model` as a short business model filter, e.g. `B2B SaaS subscription; AI workflow automation for growth and marketing teams`.
 - Keep investor emails human: `Hi FirstName,` then short paragraphs and `Best, [FounderName]`.
 - Default investor outreach CTA is `Let's have a call next week?`; do not use deck-first asks like `Could I send over a short deck?` unless the user explicitly requests that style.
+- LinkedIn connection request messages must fit LinkedIn's 200-character limit. Default style: `Hi [FirstName], I'm founder of [Startup]. We help companies launch better social media content and ads with AI agents. We launched recently, got 10+ paying customers and are raising, let's have a call?`
 - Do not write database-looking hooks like `We screened X because source list shows...` in outbound messages. Keep those details in internal notes only.
 - Preserve the original Ask VC workbook layout. For `Шаблон Pipeline инвесторов` and `Outreach Tracker`, keep the template's base columns, filters, dropdowns, and colors; append extra generated columns to the right instead of replacing the table.
 - Mark uncertain data clearly: `confirmed`, `inferred`, `not_found`, `needs review`.
